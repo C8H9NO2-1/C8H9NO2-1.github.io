@@ -42,3 +42,4 @@ This is just a test of GitHub Markdown but also of git...
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 This is the other line used for Git branch system testing purposes
+This is a line for Git branch system testing purposes.
